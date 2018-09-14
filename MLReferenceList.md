@@ -9,7 +9,7 @@ I'm continuosly updating this list, so be sure to recheck often!
 A list of highly recommended short courses and lecture video series.
 
 ## Mathematics for Machine Learning
-Machine Learning requires some mathematical prerequisites for you to understand what's going on. Generally, experience with statistics, probability, linear algebra, and multivariate calculus are hard requirements. Reading papers and books are super hard without the prerequisites, so we cannot stress how important it is to go through them first! :)
+Machine Learning requires some mathematical prerequisites for you to understand what's going on. Generally, experience with statistics, probability, linear algebra, and multivariate calculus are hard requirements. Reading papers and books are super hard without the prerequisites, so we cannot stress how important it is to go through them first! If you're pressed with time, I recommend running through just CMU 10-606. Otherwise, the other things listed would provide really good resources. 
 
 * [(CMU 10-606) Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA) - Teaches the mathematical foundations needed to explore Machine Learning as a discipline of study. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. ***Prerequisite: Previous Statistics/Calculus/Linear Algebra would be helpful. ST-STAT/MODESTA, CCSCAL1, CCSCAL2, and ADVDISC would be great, but not hard required.***
 
