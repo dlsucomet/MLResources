@@ -42,10 +42,12 @@ Course series on Natural Language Processing and computational linguistics. I le
 *Coming Soon*
 
 # Books
-Books have been my go-to resource for learning stuff, so here are some of my highly recommended ones. 
+Some of my highly recommended books. 
 
 ## Machine Learning and Deep Learning
-* Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016) - Written by some of the greatest names in AI Research today, this book is the best I can recommend for an introduction to Deep Learning.
+* [Deep Learning](https://github.com/dlsucomet/MLResources/blob/master/books/Deep%20Learning.pdf) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016) - Written by some of the greatest names in AI Research today, this book is the best I can recommend for an introduction to Deep Learning.
+
+* [Pattern Recognition and Machine Learning](https://github.com/dlsucomet/MLResources/blob/master/books/Pattern%20Recognition%20and%20Machine%20Learning.pdf) by Christopher Bishop (2006) - The OG Machine Learning Book. A tad bit outdated, but it does work really great as a classical machine learning textbook.
 
 ## Data Science
 *Coming Soon*
