@@ -1,9 +1,5 @@
 # Machine Learning Reference List
-This is a curated list of materials, books, resources, videos, blog posts, podcasts, papers, courses, and virtually any material you can use to teach yourself Machine Learning and other subdisciplines under it. You'll see annotations on each entry showing the recommended background/skill/prerequisite before checking out the resource.
-
-I'm continuosly updating this list, so be sure to recheck often!
-
-*Managed by the DLSU Machine Learning Group*
+Here's a curated list of references/resources that you can use to teach yourself Machine Learning, annotated with prerequisites and recommendations to help you choose. It's a work in progress and I'll be updating it every so often, so be sure to keep checking!
 
 # Courses
 A list of highly recommended short courses and lecture video series.
@@ -52,9 +48,9 @@ Some of my highly recommended books.
 ## Data Science
 *Coming Soon*
 
-# Blogs and Podcasts
-*Coming Soon*
-
 # Conference and Journal Papers
 *Coming Soon. Altho I can lead you [here](https://github.com/terryum/awesome-deep-learning-papers).*
+
+# Blogs and Podcasts
+*Coming Soon*
 
