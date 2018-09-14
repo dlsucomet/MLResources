@@ -6,7 +6,9 @@ We're continuosly updating this list, so be sure to recheck often!
 *Managed by the DLSU Machine Learning Group*
 
 ## Mathematical Background for Machine Learning
-* [(CMU 10-606) Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA) - Great offering from Carnegie Mellon University. Teaches the mathematical foundations needed to explore Machine Learning as a discipline of study. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Coding experience is needed to implement the course materials. *\[Prerequisite: Some background on statistics and probability, linear algebra, calculus, and multivariate calculus will be helpful.\]*
+* [(CMU 10-606) Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA) - Great offering from Carnegie Mellon University. Teaches the mathematical foundations needed to explore Machine Learning as a discipline of study. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Coding experience is needed to implement the course materials. ***Prerequisite: Some background on statistics and probability, linear algebra, calculus, and multivariate calculus will be helpful.***
+
+* [(CMU 10-705) Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/) - Works well as a good intermediate statistics and probability course, and deals mostly with theoretical statics. Includes topics like bayesian inference, bootstrapping, nonparametric testing, etc. Roughly equal to an ADVSTAT class. ***Prerequisite: Basic Statistics and Probability. ST-STAT/MODESTA should suffice.***
 
 ## Introduction to Machine Learning
 
