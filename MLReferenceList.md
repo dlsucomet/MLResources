@@ -49,7 +49,7 @@ Some of my highly recommended books.
 *Coming Soon*
 
 # Conference and Journal Papers
-Seminal papers on various topics. SSuper good to read even if you're working in another area of Machine Learning/Deep Learning. Sorted via year. Some entries are highlighted to designate "super important" status.
+Seminal papers on various topics. Super good to read even if you're working in another area of Machine Learning/Deep Learning. Sorted via year.
 
 ## Convex Optimization for Neural Networks
 * [Adam: A Method for Stochastic Optimization (Kingma & Ba, 2014)](https://arxiv.org/abs/1412.6980) - "Hehe alam mo Blaise diba the best optimizer for neural networks is Adam tapos my dog is named Adam hihi cute diba!" (Courtney Ngo, 2018)
