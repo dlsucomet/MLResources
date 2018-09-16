@@ -62,5 +62,8 @@ Seminal papers on various topics. Super good to read even if you're working in a
 * [Generative Adversarial Networks (Goodfellow, et al., 2014)](https://arxiv.org/abs/1406.2661) - Touted by Yann LeCun as the "most interesting idea in ML in the last 10 years," the GAN is a framework for training generative models in an adversarial setting. The most important contribution by my favorite deep learning researcher, and arguably his best.
 
 # Blogs and Podcasts
-*Coming Soon*
+A collection og blogs, blog posts, and podcasts that talk ML and Deep Learning.
+
+## Blog Posts
+* [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html) - A "paper" attempting to explain all the matrix calculus you need to understand deep learning. The learning curve might be a tad bit too steep so I suggest it as a side-material when taking a math course.
 
