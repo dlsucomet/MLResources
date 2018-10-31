@@ -64,6 +64,11 @@ Seminal papers on various topics. Super good to read even if you're working in a
 # Blogs and Podcasts
 A collection og blogs, blog posts, and podcasts that talk ML and Deep Learning.
 
+## Websites and Trackers
+* [Tracking The Progress of NLP](http://nlpprogress.com) - A tracker that's regular updated with the state-of-the-art in various NLP tasks, datasets, techniques, etc.
+
 ## Blog Posts
 * [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html) - A "paper" attempting to explain all the matrix calculus you need to understand deep learning. The learning curve might be a tad bit too steep so I suggest it as a side-material when taking a math course.
+
+* [The Best of Universal Sentence/Word Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a) - From the blog of Thomas Wolf, an NLP-Deep Learning researcher. Reviews the current state-of-the-art techniques in word embedding and sentence embedding techniques.
 
