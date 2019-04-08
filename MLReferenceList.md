@@ -44,6 +44,8 @@ Courses on Natural Language Processing (with an emphasis on deep learning method
 ## Computer Vision
 Courses on Computer Vision (with an emphasis on deep learning methods).
 
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
 | [\[CS231N\] Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Stanford University | Stanford's computer vision class with an emphasis on deep learning techniques. Taught by Fei-Fei Li, Justin Johnson, and Serena Yeung. | A previous machine learning course. A previous deep learning course is appreciated.
 
 ## Data Science
