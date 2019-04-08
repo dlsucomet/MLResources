@@ -29,9 +29,9 @@ Neural networks and everything under it's umbrella. Requires good foundations! S
 
 |Course |Source |Notes |Prerequisites |
 |:-------- |:---|:---|:---|
-|(Neural Networks)[https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH] | Universitè de Sherbrooke | Hugo Larochelle's neural networks class. My go-to recommendation for people who want a good theory-based introduction with complete proofs and intuitions. | Good linear algebra and multivariate calculus, plus statistics and information theory.
-|(Neural Networks)[https://www.cs.toronto.edu/~hinton/coursera_lectures.html] | Coursera | The coursera neural networks course from the godfather Geoffrey Hinton himself! | Good linear algebra and multivariate calculus, plus statistics and information theory.
-|(Neural Networks)[https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi] | 3Blue1Brown | Not an in-depth deep learning course but rather a series of videos that help you visualize and understand the intuitions and mechanics behind neural networks. Recommended binge-watch! Can be used as a primer to get your feet wet. | Just calculus is fine.
+|[Neural Networks](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) | Universitè de Sherbrooke | Hugo Larochelle's neural networks class. My go-to recommendation for people who want a good theory-based introduction with complete proofs and intuitions. | Good linear algebra and multivariate calculus, plus statistics and information theory.
+|[Neural Networks](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | Coursera | The coursera neural networks course from the godfather Geoffrey Hinton himself! | Good linear algebra and multivariate calculus, plus statistics and information theory.
+|[Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | Not an in-depth deep learning course but rather a series of videos that help you visualize and understand the intuitions and mechanics behind neural networks. Recommended binge-watch! Can be used as a primer to get your feet wet. | Just calculus is fine.
 
 ## Natural Language Processing
 Courses on Natural Language Processing (with an emphasis on Deep Learning methods). I learned from the old CS224N course, but we've added the new one here.
