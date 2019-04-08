@@ -5,7 +5,7 @@ Here's a curated list of references/resources that you can use to teach yourself
 A list of highly recommended short courses and lecture video series.
 
 ## Mathematics for Machine Learning
-Machine Learning requires some mathematical prerequisites for you to understand what's going on. Generally, experience with statistics, probability, linear algebra, and multivariate calculus are hard requirements. Reading papers and books are super hard without the prerequisites, so we cannot stress how important it is to go through them first! If you're pressed with time, I recommend running through just CMU 10-606. Otherwise, the other things listed would provide really good resources. 
+Machine Learning requires some mathematical prerequisites for you to understand what's going on. Generally, experience with statistics, probability, linear algebra, and multivariate calculus are hard requirements. Reading papers and books is hard without the prerequisites, so we cannot stress how important it is to go through them first! If you're pressed with time, I recommend running through just CMU 10-606. Otherwise, the other things listed would provide really good resources. 
 
 |Course |Source |Notes |Prerequisites |
 |:-------- |:---|:---|:---|
