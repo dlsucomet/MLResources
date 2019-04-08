@@ -3,7 +3,7 @@ Repository for learning resources related to Machine Learning and Deep Learning.
 
 <img src="https://github.com/dlsucomet/MLResources/blob/master/assets/logo2.jpg" width=200>
 
-## [Machine Learning Reference List](https://github.com/dlsucomet/MLResources/blob/master/MLReferenceList.md)
+## [Reference List](https://github.com/dlsucomet/MLResources/blob/master/reference.md)
 A curated list of lectures, videos, books, and more for all levels of experience in ML/DL. Check it if you're interested in learning ML, or is looking to add to your already existing knowledge! This list is being updated over time so be sure to check back often.
 
 ## Tools and Frameworks
