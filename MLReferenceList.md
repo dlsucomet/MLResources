@@ -1,25 +1,19 @@
 # Machine Learning Reference List
 Here's a curated list of references/resources that you can use to teach yourself Machine Learning, annotated with prerequisites and recommendations to help you choose. It's a work in progress and I'll be updating it every so often, so be sure to keep checking!
 
-|Course |Source |Notes |Prerequisites |
-|:-------- |:---|:---|:---|
-|[\[10-606\] Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Carnegie Mellon University| Teaches the mathematical foundations needed to explore Machine Learning. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Recommended for beginners. Take this first if you are unsure on where to go! | Nothing hard required. Previous Linear Algebra/Statistics/Calculus classes would help.
-|[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown| My favorite Linear Algebra short course online, with an emphasis on geometric interpretations and intuitions. Recommended binge watch. | None
-
 # Courses
 A list of highly recommended short courses and lecture video series.
 
 ## Mathematics for Machine Learning
 Machine Learning requires some mathematical prerequisites for you to understand what's going on. Generally, experience with statistics, probability, linear algebra, and multivariate calculus are hard requirements. Reading papers and books are super hard without the prerequisites, so we cannot stress how important it is to go through them first! If you're pressed with time, I recommend running through just CMU 10-606. Otherwise, the other things listed would provide really good resources. 
 
-
-* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Probably my favorite Linear Algebra short course online. 3Blue1Brown teaches super well, and does so in so many perspectives. Recommended for beginners. ***Prerequisite: None***
-
-* [Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Here's a more practical Linear Algebra offering from fast.ai, which does a top-down approach teaching you the essence of the subject by showing you the practical side, then going to the theoretical side. Good for people who'd want to do more coding instead of pen-and-paper gauss jordan elimination. Recommended for intermediate students. ***Prerequisite: Supposedly none. Requires you to know Numpy.***
-
-* [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) - A refresher of the guts of Linear Algebra. Recommended to take it only if you've taken a Linear Algebra course before as it's not as in depth as other offerings. Recommended for intermediate students. ***Prerequisite: A previous Linear Algebra course. ADVDISC would work. Do note that this is just a refresher.***
-
-* [(CMU 10-705) Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/) - Works nicely as a theoretical take on statistical theory. Coers topics such as bayesian inference and nonparametric testing. This is not a basic statistics course, and is intended for a deep dive in intermediate statistics! Recommended for intermediate students. ***Prerequisite: Statistics and Probability. Some ADVSTAT should work.***
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
+|[\[10-606\] Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Carnegie Mellon University| Teaches the mathematical foundations. Take this if unsure where to go. | Nothing hard required. Previous linear algebra/statistics/calculus classes would help.
+|[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown| My favorite linear algebra short course online, with an emphasis on geometric interpretations and intuitions. Recommended binge watch. | None.
+|[Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) | fast.ai | A more practical linear algebra class with emphasis on practical intuition and coding. Teaches you how to code the algorithms for those who like to see numbers in action. | None.
+|[Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) | Carnegie Mellon University | A quick review on the guts of linear algebra. Only take it if you've taken a previous course. | Previous linear algebra course.
+|[\[10-705\] Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/) | Carnegie Mellon University | Works nicely as a theoretical take on statistical theory. Coers topics such as bayesian inference and nonparametric testing. This is not a basic statistics course, and is intended for a deep dive in intermediate statistics! Recommended for intermediate students. | Previous statistics and probability course.
 
 ## Introduction to Machine Learning
 Main course meal. Assumes the required mathematical background is met, ideally CMU 10-606 has been taken as a precursor. Go take CMU 10-701. 
