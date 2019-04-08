@@ -34,7 +34,7 @@ Neural networks and everything under it's umbrella. Requires good foundations! S
 |[Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | Not an in-depth deep learning course but rather a series of videos that help you visualize and understand the intuitions and mechanics behind neural networks. Recommended binge-watch! Can be used as a primer to get your feet wet. | Just calculus is fine.
 
 ## Natural Language Processing
-Courses on Natural Language Processing (with an emphasis on Deep Learning methods). I learned from the old CS224N course, but we've added the new one here.
+Courses on Natural Language Processing (with an emphasis on deep learning methods). I learned from the old CS224N course, but we've added the new one here.
 
 |Course |Source |Notes |Prerequisites |
 |:-------- |:---|:---|:---|
@@ -42,10 +42,12 @@ Courses on Natural Language Processing (with an emphasis on Deep Learning method
 | [\[CS224N\] Introduction to Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) | Stanford University | The older, time-tested version of the CS224N course, added here in case you need it. | A previous machine learning course. A previous deep learning course is appreciated.
 
 ## Computer Vision
-*Coming Soon*
+Courses on Computer Vision (with an emphasis on deep learning methods).
+
+| [\[CS231N\] Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Stanford University | Stanford's computer vision class with an emphasis on deep learning techniques. Taught by Fei-Fei Li, Justin Johnson, and Serena Yeung. | A previous machine learning course. A previous deep learning course is appreciated.
 
 ## Data Science
-*Coming Soon*
+We're actually making some data science lecture videos so watch this space as it's coming soon!
 
 # Books
 Some of my highly recommended books. 
