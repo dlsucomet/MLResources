@@ -1,8 +1,9 @@
 # Machine Learning Reference List
 Here's a curated list of references/resources that you can use to teach yourself Machine Learning, annotated with prerequisites and recommendations to help you choose. It's a work in progress and I'll be updating it every so often, so be sure to keep checking!
 
-|Hello|Hello|Hello|
+|Course |Notes |Prerequisites |
 |:--- |:---: |---:|
+|[(CMU 10-606) Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Teaches the mathematical foundations needed to explore Machine Learning. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Recommended for beginners. Take this first if you are unsure on where to go! | Previous Statistics/Calculus/Linear Algebra would be helpful. ST-STAT/MODESTA, CCSCAL2, and ADVDISC would be great, but not hard required.
 
 # Courses
 A list of highly recommended short courses and lecture video series.
