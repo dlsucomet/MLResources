@@ -1,10 +1,10 @@
 # Machine Learning Reference List
 Here's a curated list of references/resources that you can use to teach yourself Machine Learning, annotated with prerequisites and recommendations to help you choose. It's a work in progress and I'll be updating it every so often, so be sure to keep checking!
 
-|Course |Notes |Prerequisites |
-|:-------- |:---|:---|
-|[\[CMU 10-606\] <br /> Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Teaches the mathematical foundations needed to explore Machine Learning. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Recommended for beginners. Take this first if you are unsure on where to go! | Nothing hard required. Previous Linear Algebra/Statistics/Calculus classes would help.
-|[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | My favorite Linear Algebra short course online, with an emphasis on geometric interpretations and intuitions. Recommended binge watch. | None
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
+|[\[10-606\] Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Carnegie Mellon University| Teaches the mathematical foundations needed to explore Machine Learning. Highly recommended for people who want to get into ML. While previous experience on the subjects are helpful, they are not thoroughly required. Recommended for beginners. Take this first if you are unsure on where to go! | Nothing hard required. Previous Linear Algebra/Statistics/Calculus classes would help.
+|[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown| My favorite Linear Algebra short course online, with an emphasis on geometric interpretations and intuitions. Recommended binge watch. | None
 
 # Courses
 A list of highly recommended short courses and lecture video series.
