@@ -16,18 +16,30 @@ Machine Learning requires some mathematical prerequisites for you to understand 
 |[\[10-705\] Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/) | Carnegie Mellon University | Works nicely as a theoretical take on statistical theory. Coers topics such as bayesian inference and nonparametric testing. This is not a basic statistics course, and is intended for a deep dive in intermediate statistics! Recommended for intermediate students. | Previous statistics and probability course.
 
 ## Introduction to Machine Learning
-Main course meal. Assumes the required mathematical background is met, ideally CMU 10-606 has been taken as a precursor. Go take CMU 10-701. 
+Basic Machine Learning. Assumes the required mathematical background is met, ideally CMU 10-606 has been taken as a precursor. Go take CMU 10-701 if unsure where to go. 
 
-* [(CMU 10-701) Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/schedule.html) - My current go-to recommendation for Introduction to Machine Learning. Solid offering from Carnegie Mellon. Recommended for beginners. ***Prerequisite: Statistics, Calculus, and Linear Algebra. CMU 10-606 is recommended as a precursor. In terms of DLSU subjects, ADVDISC, ADVSTAT, and CCSCAL2 would suffice.***
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
+| [\[10-701\] Introduction to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/schedule.html) | Carnegie Mellon University | My current go-to recommendation for an introduction to machine learning. Solid offering. | Statistics, linear algebra, and calculus (multivariate). CMU 10-606 would work as a precursor.
+| [\[CS229\] Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) | Stanford University | Used to be my go-to, but is outdated (the video quality says it all). Go to CMU 10-701 unless you like seeing Andrew Ng prove theorems on six blackboards at once. | Statistics, linear algebra, and calculus (multivariate). CMU 10-606 would work as a precursor.
+| [\[CS155\] Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLuz4CTPOUNi644ypoxzP1frkPYVHdjDJU) | California Institute of Technology | Caltech's intro to machine learning, which Stan recommends. Yisong Yue teaches really well. | Statistics, linear algebra, and calculus (multivariate). CMU 10-606 would work as a precursor.
 
-* [(CS229) Intrduction to Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Stanford's Introduction to Machine Learning course series. Used to be my go-to, but it's a tad bit outdated (the video quality says it all). Would rather go to CMU 10-701 unless you wanna see Andrew Ng prove theorems on six blackboards at once. Recommended for beginners. ***Prerequisite: Statistics, Calculus, and Linear Algebra. CMU 10-606 is recommended as a precursor. In terms of DLSU subjects, ADVDISC, ADVSTAT, and CCSCAL2 would suffice.***
+## Deep Learning
+Neural networks and everything under it's umbrella. Requires good foundations! Some background in basic machine learning would help. Go take Hugo Larochelle's course for a more theoretical (proof-based) introduction.
 
-* [(CS155) Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLuz4CTPOUNi644ypoxzP1frkPYVHdjDJU) - Caltech's Introduction to Machine Learning Course. Stan recommends it, Yisong Yue teaches super good daw. Recommended for beginners. ***Prerequisite: Statistics, Calculus, and Linear Algebra. CMU 10-606 is recommended as a precursor. In terms of DLSU subjects, ADVDISC, ADVSTAT, and CCSCAL2 would suffice.***
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
+|(Neural Networks)[https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH] | Universitè de Sherbrooke | Hugo Larochelle's neural networks class. My go-to recommendation for people who want a good theory-based introduction with complete proofs and intuitions. | Good linear algebra and multivariate calculus, plus statistics and information theory.
+|(Neural Networks)[https://www.cs.toronto.edu/~hinton/coursera_lectures.html] | Coursera | The coursera neural networks course from the godfather Geoffrey Hinton himself! | Good linear algebra and multivariate calculus, plus statistics and information theory.
+|(Neural Networks)[https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi] | 3Blue1Brown | Not an in-depth deep learning course but rather a series of videos that help you visualize and understand the intuitions and mechanics behind neural networks. Recommended binge-watch! Can be used as a primer to get your feet wet. | Just calculus is fine.
 
 ## Natural Language Processing
-Course series on Natural Language Processing and computational linguistics. I learned from CS224N, and I highly recommend you take it too.
+Courses on Natural Language Processing (with an emphasis on Deep Learning methods). I learned from the old CS224N course, but we've added the new one here.
 
-* [(CS224N) Introduction to Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) - A class from the legendary Christopher Manning of the Stanford NLP Group. My go-to recommendation for NLP-Deep Learning. Recommended for intermediate students. ***Prerequisite: An Intro to ML course, preferably CMU 10-701. A Deep Learning course is also recommened, even if Manning teaches some DL in the course itself.*** 
+|Course |Source |Notes |Prerequisites |
+|:-------- |:---|:---|:---|
+| [\[CS224N\] Introduction to Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | Stanford University | The Winter 2019 version of the Deep Learning + NLP course offered by Christopher Manning and Abigail See. Highly recommended. | A previous machine learning course. A previous deep learning course is appreciated.
+| [\[CS224N\] Introduction to Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) | Stanford University | The older, time-tested version of the CS224N course, added here in case you need it. | A previous machine learning course. A previous deep learning course is appreciated.
 
 ## Computer Vision
 *Coming Soon*
