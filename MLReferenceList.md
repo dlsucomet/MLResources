@@ -63,22 +63,13 @@ Some of my highly recommended books.
 *Coming Soon*
 
 # Conference and Journal Papers
-Seminal papers on various topics. Super good to read even if you're working in another area of Machine Learning/Deep Learning. Sorted via year.
-
-## Convex Optimization for Neural Networks
-* [Adam: A Method for Stochastic Optimization (Kingma & Ba, 2014)](https://arxiv.org/abs/1412.6980) - "Hehe alam mo Blaise diba the best optimizer for neural networks is Adam tapos my dog is named Adam hihi cute diba!" (Courtney Ngo, 2018)
-* [Dropout: A Simple Way to Prevent Neural Networks From Overfitting (Srivastava, 2014)](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) - Probably the most important regularization technique of our time. Started as a master's thesis, now it's on every deep learning framework. This is the paper we all aspire to write.
-
-## Deep Learning and Natural Language Processing
-* [Attention Is All You Need (Vaswani, et al., 2017)](https://arxiv.org/abs/1706.03762) - Replaces the need for super deep Recurrent/Convolutional mechanisms in your sequence models by using pure attention mechanisms. I've read four state-of-the-art NLP papers of differing NLP tasks. They all use Attention. It's truly all you need.
-
-## Generative Models and Adversarial Networks
-* [Generative Adversarial Networks (Goodfellow, et al., 2014)](https://arxiv.org/abs/1406.2661) - Touted by Yann LeCun as the "most interesting idea in ML in the last 10 years," the GAN is a framework for training generative models in an adversarial setting. The most important contribution by my favorite deep learning researcher, and arguably his best.
+We're making a separate list of good papers to read. Coming soon!
 
 # Blogs and Podcasts
-A collection og blogs, blog posts, and podcasts that talk ML and Deep Learning.
+A collection of blogs, blog posts, and podcasts that talk ML and Deep Learning.
 
 ## Websites and Trackers
+* [Papers With Code](https://paperswithcode.com) - A tracker with SOTA leaderboards for multiple tasks in different areas of research.
 * [Tracking The Progress of NLP](http://nlpprogress.com) - A tracker that's regular updated with the state-of-the-art in various NLP tasks, datasets, techniques, etc.
 
 ## Blog Posts
