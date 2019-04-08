@@ -1,7 +1,7 @@
 # COMET Machine Learning Resources
 Repository for Machine Learning resources, frameworks, and projects for COMET Cohorts.
 
-![MLG Logo](assets/logo2.jpg | width=200)
+<img src="https://github.com/dlsucomet/MLResources/blob/master/assets/logo2.jpg" width=200>
 
 *Managed by the Machine Learning Group*
 
