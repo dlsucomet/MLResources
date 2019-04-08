@@ -9,7 +9,7 @@ Machine Learning requires some mathematical prerequisites for you to understand 
 
 |Course |Source |Notes |Prerequisites |
 |:-------- |:---|:---|:---|
-|[\[10-606\] Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Carnegie Mellon University| Teaches the mathematical foundations. Take this if unsure where to go. | Nothing hard required. Previous linear algebra/statistics/calculus classes would help.
+|[\[10-606\] Mathematical Background for Machine Learning](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)| Carnegie Mellon University| Teaches the mathematical foundations. Take this if unsure where to go. No needed prior knowledge, but previous classes on statistics, linear algebra, and calculus would help. | None.
 |[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown| My favorite linear algebra short course online, with an emphasis on geometric interpretations and intuitions. Recommended binge watch. | None.
 |[Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) | fast.ai | A more practical linear algebra class with emphasis on practical intuition and coding. Teaches you how to code the algorithms for those who like to see numbers in action. | None.
 |[Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) | Carnegie Mellon University | A quick review on the guts of linear algebra. Only take it if you've taken a previous course. | Previous linear algebra course.
