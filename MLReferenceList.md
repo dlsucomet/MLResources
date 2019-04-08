@@ -1,6 +1,9 @@
 # Machine Learning Reference List
 Here's a curated list of references/resources that you can use to teach yourself Machine Learning, annotated with prerequisites and recommendations to help you choose. It's a work in progress and I'll be updating it every so often, so be sure to keep checking!
 
+|Hello|Hello|Hello|
+|:--- |:---: |---:|
+
 # Courses
 A list of highly recommended short courses and lecture video series.
 
